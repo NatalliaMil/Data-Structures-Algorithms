@@ -1,4 +1,5 @@
-#Algorithms and Data Structures
+# Algorithms and Data Structures
+
 This repository contains a list of popular algorithms and data structures.
 
 ---
