@@ -12,6 +12,7 @@ __Algorithms:__
 2. Sorting
     - Selection Sort
     - Bubble Sort
+    - Quick Sort
 3. 
 
 
