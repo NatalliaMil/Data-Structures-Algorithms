@@ -13,16 +13,21 @@ __Algorithms:__
     - Selection Sort
     - Bubble Sort
     - Quick Sort
-3. 
+    - Merge Sort
+    - Heap Sort
+    - Insertion
+    - Shell Sort
+    - Counting Sort
+    - Radix Sort 
 
 
 __Data Structures:__
 
 1. Linked List
-2. Queue
+2. Doubly Linked List
 3. Stack
-4. Linked List
-5. Map
+4. Queue
+5. Heap
 6. Hash Table
 7. Tree
 8. Array
